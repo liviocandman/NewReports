@@ -9,9 +9,12 @@
 ## 🚀 Clone This Project In Your Local Machine:
 
 - `git clone https://github.com/liviocandman/NewReports.git`
+- cd server
+- npm run dev
+- 
 - cd mobile
-- run npm install
-- run npx expo start
+- npm install
+- npx expo start
 
 ## 📝 Acknowlegements
 
