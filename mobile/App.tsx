@@ -1,4 +1,4 @@
-import { View } from 'react-native';
+import { NativeBaseProvider } from 'native-base';
 import { StatusBar } from 'expo-status-bar';
 import { Routes } from './src/routes';
 
@@ -24,12 +24,12 @@ export default function App() {
     return  <Loading /> ;
   }else {
     return (
-      <>
+      <NativeBaseProvider>
         <StatusBar 
           style='auto'
         />
          <Routes /> 
-      </>
+      </NativeBaseProvider>
     );
   }
 

@@ -1,4 +1,6 @@
-export const THEME = {
+import { extendTheme } from "native-base";
+
+export const THEME = extendTheme({
   COLORS: {
     BACKGROUND: '#FFFFFF',
 
@@ -30,4 +32,4 @@ export const THEME = {
     LG: 24,
     XG: 32,
   }
-};
+});

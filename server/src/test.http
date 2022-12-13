@@ -1,0 +1,10 @@
+POST  http://localhost:4000/createreport
+Content-Type: application/json
+
+{
+    "area": "Segurança",
+    "setor": "Obras",
+    "tipo": "Segurança do trabalho",
+    "descricao": "Falta de equipamentos adequados para trabalho"
+}
+

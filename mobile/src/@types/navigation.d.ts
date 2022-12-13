@@ -4,6 +4,8 @@ export declare global {
             home: undefined;
             access: undefined;
             reports: undefined;
+            createreport: undefined;
+            reportslist: undefined;
         }
     }
 }
