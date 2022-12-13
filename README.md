@@ -11,7 +11,7 @@
 - `git clone https://github.com/liviocandman/NewReports.git`
 - cd server
 - npm run dev
-- 
+
 - cd mobile
 - npm install
 - npx expo start
