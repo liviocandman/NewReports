@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/liviocandman/NewReports/blob/master/mobile/src/assets/logo.png" height="60px"/>
+<img align="left" src="https://github.com/liviocandman/NewReports/blob/master/app/src/assets/logo.png" height="60px"/>
 <h2>New Reports</h2>
 
 ## 🧪 Built With
@@ -12,12 +12,13 @@
 ## 🚀 Clone This Project In Your Local Machine:
 
 - `git clone https://github.com/liviocandman/NewReports.git`
-- cd server
-- npm install
-- npm run dev
+
 - cd mobile
 - npm install
 - npx expo start
+- cd src/server
+- npm install
+- npm run dev
 
 ## 📝 Acknowlegements
 
