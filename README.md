@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/liviocandman/NewReports/blob/master/mobile/src/assets/logo.png" />
+<img align="left" src="https://github.com/liviocandman/NewReports/blob/master/mobile/src/assets/logo.png" height="50px"/>
 <h2>New Reports</h2>
 
 ## 🧪 Built With
