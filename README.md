@@ -1,5 +1,6 @@
 <img align="left" src="https://github.com/liviocandman/NewReports/blob/master/app/src/assets/logo.png" height="60px"/>
 <h2>New Reports</h2>
+<p>O New Reports é um aplicativo que tem como principal função relatar cenários que possam causar acidentes, prejuízos financeiros, contaminação ambiental e desorganização do ambiente de trabalho, tornando ágil a resolução de problemas dentro das indústrias e empresas. Essa ferramenta será simples e fácil de usar, possibilitando a abertura de relatos em qualquer lugar, otimizando tempo e cuidando de todos.</p>
 
 ## 🧪 Built With
 
